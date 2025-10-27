@@ -18,6 +18,7 @@ requirements:
   host:
     - pip
     - python
+    - setuptools
   run:
     - prov >=1.0.0
     - python
